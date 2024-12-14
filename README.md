@@ -1,7 +1,7 @@
 # Apple Website 1998 - Replica
 
 ## Overview
-This project is a design replica of the Apple website as it appeared in 1998. The goal is to recreate the nostalgic look and feel of the original site, based on resources from the Web Design Museum. 
+This project is a design replica of the Apple website as it appeared in 1998. The goal is to recreate the nostalgic look and feel of the original site, based on resources from the Web Design Museum. Here is the link of the website: [https://dotcomboomapple.bss.design/]. 
 
 ## Features
 - **Accurate Design**: The visual design closely mirrors the original 1998 Apple website, capturing its unique style and layout.
